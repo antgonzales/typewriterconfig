@@ -1,0 +1,23 @@
+{
+  "name": "typewriterconfig",
+  "version": "1.0.0",
+  "description": "An example of how Typewriter outputs files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analytics": "typewriter --config ./fake_node_modules/typewriter.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antgonzales/typewriterconfig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antgonzales/typewriterconfig/issues"
+  },
+  "homepage": "https://github.com/antgonzales/typewriterconfig#readme",
+  "dependencies": {
+    "typewriter": "^7.4.1"
+  }
+}
